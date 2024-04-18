@@ -7,8 +7,6 @@
 
 欢迎来到我的Github首页！ 我是难平，我现在正在学习Java、Vue、深度学习
 
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
-
 
 
 #### 🌻 我正在学习 🌻
