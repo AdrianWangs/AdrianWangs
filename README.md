@@ -7,7 +7,7 @@
 
 欢迎来到我的Github首页！ 我是难平，我现在正在学习Java、Vue、深度学习
 
-<img align="right" alt="img" src="https://api.githubtrends.io/user/svg/17601402786/langs" width="50%" height="auto" />
+<img align="right" alt="img" src="https://api.githubtrends.io/user/svg/w17601402786/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" width="50%" height="auto" />
 
 
 
