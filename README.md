@@ -1,7 +1,7 @@
 ### 你好 👋 我是难平 ！✨
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/w17601402786)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AdrianWangs)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](wyz17601402786@gmail.com)
 
 
@@ -12,8 +12,9 @@
 
 
 #### 🌻 我正在学习 🌻
-- Spring Cloud
-- 深度学习
+- cloudWeGo框架
+- golang
+- aigc应用
 - Vue
 - 云计算
 
