@@ -17,4 +17,4 @@
 - Vue
 - 云计算
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianWangs" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianWangs&show_icons=true&theme=dark" />
