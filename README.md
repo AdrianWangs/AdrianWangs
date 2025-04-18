@@ -10,10 +10,11 @@
 
 
 #### 🌻 我正在学习 🌻
+- Golang
+- 推荐算法
+- 分布式系统
 - cloudWeGo框架
-- golang
 - aigc应用
-- Vue
 - 云计算
 
 <img src="https://github-readme-stats.vercel.app/api?username=AdrianWangs&show_icons=true&theme=dark" />
