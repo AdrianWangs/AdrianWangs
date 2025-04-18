@@ -15,6 +15,5 @@
 - 分布式系统
 - cloudWeGo框架
 - aigc应用
-- 云计算
 
 <img src="https://github-readme-stats.vercel.app/api?username=AdrianWangs&show_icons=true&theme=dark" />
